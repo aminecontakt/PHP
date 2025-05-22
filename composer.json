@@ -1,0 +1,11 @@
+{
+  "name": "mon-projet-php",
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.4"
+  }
+}
